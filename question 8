@@ -1,0 +1,6 @@
+### REVERSE A LIST WITHOUT USING BUILT IN FUNCTION
+n=[]1,2,3,4,5]
+reverse_list=[]
+for i in range (len9n0-1,-1,-1):
+   reverse_list.append(n[i])
+print("reversed list:",reverse_list)
