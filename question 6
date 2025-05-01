@@ -1,0 +1,7 @@
+### FIND THE LARGEST NUMBER IN S LIST
+n=[10,45,2,99,34]
+largest=n[0]
+for i in n:
+   if i>largest:
+       largest=i
+print("LARGEST NUMBER:",largest)
